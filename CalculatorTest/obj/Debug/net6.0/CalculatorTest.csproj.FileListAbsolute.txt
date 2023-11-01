@@ -1,0 +1,6 @@
+C:\Users\hp Envy\source\repos\ConsoleApp4\CalculatorTest\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\hp Envy\source\repos\ConsoleApp4\CalculatorTest\obj\Debug\net6.0\CalculatorTest.csproj.AssemblyReference.cache
+C:\Users\hp Envy\source\repos\ConsoleApp4\CalculatorTest\obj\Debug\net6.0\CalculatorTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp Envy\source\repos\ConsoleApp4\CalculatorTest\obj\Debug\net6.0\CalculatorTest.AssemblyInfoInputs.cache
+C:\Users\hp Envy\source\repos\ConsoleApp4\CalculatorTest\obj\Debug\net6.0\CalculatorTest.AssemblyInfo.cs
+C:\Users\hp Envy\source\repos\ConsoleApp4\CalculatorTest\obj\Debug\net6.0\CalculatorTest.csproj.CoreCompileInputs.cache
